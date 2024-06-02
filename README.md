@@ -10,7 +10,9 @@ git clone https://github.com/Ha3MrX/Gemail-Hack
 
 
 cd Gemail-Hack
+
 chmod +x gemailhack.py
+
 python gemailhack.py
 
 YouTube Channel
